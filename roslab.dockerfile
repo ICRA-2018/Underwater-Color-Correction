@@ -58,7 +58,7 @@ RUN pip2 install  \
     ipykernel==4.10.0 \
     tornado==5.1.1 \
     tqdm \
-    scikit-image<0.15
+    scikit-image==0.14.2
 
 ##################################### COPY #####################################
 
